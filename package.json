@@ -1,0 +1,16 @@
+{
+    "name": "doggo-node-api",
+    "version": "1.0.0",
+    "description": "A Node API that returns dogs",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "nodemon src/index.js localhost"
+    },
+    "dependencies": {
+      "express": "4.16.4"
+    },
+    "devDependencies": {
+      "nodemon": "1.18.4"
+    }
+  }
+  
